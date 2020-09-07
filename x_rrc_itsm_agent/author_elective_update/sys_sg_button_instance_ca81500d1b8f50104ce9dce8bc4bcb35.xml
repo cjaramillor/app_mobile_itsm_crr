@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (Incident)">8681500d1b8f50104ce9dce8bc4bcb1f</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident)</name>
+        <order>20</order>
+        <parent>82815cc91b8f50104ce9dce8bc4bcbf9</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 14:08:29</sys_created_on>
+        <sys_id>ca81500d1b8f50104ce9dce8bc4bcb35</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New (Incident)</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ca81500d1b8f50104ce9dce8bc4bcb35</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 16:47:08</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ca81500d1b8f50104ce9dce8bc4bcb35"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_button_instance_ca81500d1b8f50104ce9dce8bc4bcb35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (Incident)">8681500d1b8f50104ce9dce8bc4bcb1f</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name>New (Incident)</name><order>20</order><parent>82815cc91b8f50104ce9dce8bc4bcbf9</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-02 14:08:29</sys_created_on><sys_id>ca81500d1b8f50104ce9dce8bc4bcb35</sys_id><sys_mod_count>1</sys_mod_count><sys_name>New (Incident)</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_button_instance_ca81500d1b8f50104ce9dce8bc4bcb35</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-02 16:47:08</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=ca81500d1b8f50104ce9dce8bc4bcb35"/></record_update>]]></payload>
+        <payload_hash>748105263</payload_hash>
+        <record_name>New (Incident)</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 16:47:08</sys_created_on>
+        <sys_id>4ed5f4051b0390104ce9dce8bc4bcb5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1744fb705680000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 16:47:08</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>86d5f40571039010d43595277950b05c</update_guid>
+        <update_guid_history>86d5f40571039010d43595277950b05c:748105263,2e81900d148f501022b3a6937846f897:383552819</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 17:29:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>82b0887f1566472aba645db27ad2dd09</sys_id>
+        <sys_metadata>ca81500d1b8f50104ce9dce8bc4bcb35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Incident)</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_ca81500d1b8f50104ce9dce8bc4bcb35</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_ca81500d1b8f50104ce9dce8bc4bcb35">4ed5f4051b0390104ce9dce8bc4bcb5c</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 17:29:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

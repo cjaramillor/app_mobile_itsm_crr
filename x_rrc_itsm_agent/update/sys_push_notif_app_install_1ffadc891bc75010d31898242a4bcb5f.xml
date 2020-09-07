@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <last_registered_on>2020-09-04 14:12:33</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 14:49:49</sys_created_on>
+        <sys_id>1ffadc891bc75010d31898242a4bcb5f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>fynoaLXwYhs:APA91bGV6XEgTuqLK-cUwyQJv297qWoBmtJ9QIn9t8R4rbSvpGTORzfNbrJIBSo2wQcNTqqtKf32MgbSyqpmfMbGnF5V23TwfdqnekvSJZzpMFs50m9_re1xiyZV6VLDPylADWILMwGf</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_1ffadc891bc75010d31898242a4bcb5f</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 14:12:43</sys_updated_on>
+        <sys_user_id display_value="slx cj">6b5c39c1db56d01022d66f8b13961958</sys_user_id>
+        <token>fynoaLXwYhs:APA91bGV6XEgTuqLK-cUwyQJv297qWoBmtJ9QIn9t8R4rbSvpGTORzfNbrJIBSo2wQcNTqqtKf32MgbSyqpmfMbGnF5V23TwfdqnekvSJZzpMFs50m9_re1xiyZV6VLDPylADWILMwGf</token>
+    </sys_push_notif_app_install>
+</record_update>

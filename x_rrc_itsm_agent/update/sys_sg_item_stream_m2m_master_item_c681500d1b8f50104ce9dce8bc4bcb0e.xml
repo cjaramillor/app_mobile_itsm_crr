@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Incident Item Stream">4681500d1b8f50104ce9dce8bc4bcb0c</item_stream>
+        <master_item display_value="Incident master_item">ca81500d1b8f50104ce9dce8bc4bcb0d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 14:08:29</sys_created_on>
+        <sys_id>c681500d1b8f50104ce9dce8bc4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_c681500d1b8f50104ce9dce8bc4bcb0e</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 14:08:29</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

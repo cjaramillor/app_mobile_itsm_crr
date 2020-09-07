@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>40e062251b47d0104ce9dce8bc4bcbcc,5354e2a51b47d0104ce9dce8bc4bcb33</applets>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 16:13:55</sys_created_on>
+        <sys_id>df3ee04d1bcf50104ce9dce8bc4bcb7a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Trabajo de mis Grupos</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_icon_section_df3ee04d1bcf50104ce9dce8bc4bcb7a</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 16:28:47</sys_updated_on>
+        <table/>
+        <title>Trabajo de mis Grupos</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

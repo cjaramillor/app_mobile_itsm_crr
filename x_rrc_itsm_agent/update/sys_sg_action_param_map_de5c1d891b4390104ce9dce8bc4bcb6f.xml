@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Resolver Incidente">a93a51891b4390104ce9dce8bc4bcbad</button>
+        <item_parameter display_value="incident.number">bf520d0d1b0390104ce9dce8bc4bcbed</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 19:36:15</sys_created_on>
+        <sys_id>de5c1d891b4390104ce9dce8bc4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bf520d0d1b0390104ce9dce8bc4bcbed</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_de5c1d891b4390104ce9dce8bc4bcb6f</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 19:36:15</sys_updated_on>
+        <ui_parameter display_value="number">f94b59051b4390104ce9dce8bc4bcb47</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

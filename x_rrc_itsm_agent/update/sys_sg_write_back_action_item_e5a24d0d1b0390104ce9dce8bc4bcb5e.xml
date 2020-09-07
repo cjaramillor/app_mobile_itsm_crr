@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>AS = Acción asignarme</description>
+        <execution_script/>
+        <name>SLX Asignarme INC</name>
+        <query_condition table="incident">assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^number={{incident.number}}^EQ<item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{incident.number}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 17:43:54</sys_created_on>
+        <sys_id>e5a24d0d1b0390104ce9dce8bc4bcb5e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SLX Asignarme INC</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_e5a24d0d1b0390104ce9dce8bc4bcb5e</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 17:45:36</sys_updated_on>
+        <table>incident</table>
+        <template>state=200^assigned_to={{incident.assigned_to}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e5a24d0d1b0390104ce9dce8bc4bcb5e"/>
+</record_update>

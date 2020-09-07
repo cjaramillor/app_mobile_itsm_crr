@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>Incidentes Abiertos Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 15:03:49</sys_created_on>
+        <sys_id>a43e50051bcf50104ce9dce8bc4bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidentes Abiertos Icon</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_icon_a43e50051bcf50104ce9dce8bc4bcb2d</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 15:03:49</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

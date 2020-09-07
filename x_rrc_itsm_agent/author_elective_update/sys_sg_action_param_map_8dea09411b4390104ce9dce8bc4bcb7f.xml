@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Reasignar Incidente">131a49411b4390104ce9dce8bc4bcb04</button>
+        <item_parameter display_value="incident.number">690ebc491b0390104ce9dce8bc4bcbb6</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 18:19:20</sys_created_on>
+        <sys_id>8dea09411b4390104ce9dce8bc4bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>690ebc491b0390104ce9dce8bc4bcbb6</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8dea09411b4390104ce9dce8bc4bcb7f</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 18:19:20</sys_updated_on>
+        <ui_parameter display_value="number">148a4d411b4390104ce9dce8bc4bcb6d</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_action_param_map_8dea09411b4390104ce9dce8bc4bcb7f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Reasignar Incidente">131a49411b4390104ce9dce8bc4bcb04</button><item_parameter display_value="incident.number">690ebc491b0390104ce9dce8bc4bcbb6</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-02 18:19:20</sys_created_on><sys_id>8dea09411b4390104ce9dce8bc4bcb7f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>690ebc491b0390104ce9dce8bc4bcbb6</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_action_param_map_8dea09411b4390104ce9dce8bc4bcb7f</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-02 18:19:20</sys_updated_on><ui_parameter display_value="number">148a4d411b4390104ce9dce8bc4bcb6d</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>2028024112</payload_hash>
+        <record_name>690ebc491b0390104ce9dce8bc4bcbb6</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 18:19:20</sys_created_on>
+        <sys_id>e8fa41811b4390104ce9dce8bc4bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174500b6f9d0000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 18:19:20</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>e0fa41816a4390102ea930d78cc181d9</update_guid>
+        <update_guid_history>e0fa41816a4390102ea930d78cc181d9:2028024112</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 20:54:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>18cb378879a24c8aaa39e579bee7d581</sys_id>
+        <sys_metadata>8dea09411b4390104ce9dce8bc4bcb7f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>690ebc491b0390104ce9dce8bc4bcbb6</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_8dea09411b4390104ce9dce8bc4bcb7f</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_8dea09411b4390104ce9dce8bc4bcb7f">e8fa41811b4390104ce9dce8bc4bcbd9</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 20:54:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

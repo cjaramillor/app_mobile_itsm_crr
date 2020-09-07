@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Reasignar incidente">e96fb65d1b4f90104ce9dce8bc4bcb42</button>
+        <item_parameter display_value="number">922ff65d1b4f90104ce9dce8bc4bcbb1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 21:36:03</sys_created_on>
+        <sys_id>1c8143dd1b4f90104ce9dce8bc4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>922ff65d1b4f90104ce9dce8bc4bcbb1</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_1c8143dd1b4f90104ce9dce8bc4bcbdb</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 21:36:03</sys_updated_on>
+        <ui_parameter display_value="number">abe0079d1b4f90104ce9dce8bc4bcba5</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

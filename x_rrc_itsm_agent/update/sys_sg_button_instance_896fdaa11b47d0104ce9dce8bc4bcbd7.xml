@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Resolver Incidente">a93a51891b4390104ce9dce8bc4bcbad</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Resolver</label>
+        <location>leading_swipe</location>
+        <name>Resolver</name>
+        <order>50</order>
+        <parent>1015a0491bcf50104ce9dce8bc4bcb87</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-04 13:45:14</sys_created_on>
+        <sys_id>896fdaa11b47d0104ce9dce8bc4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resolver</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_896fdaa11b47d0104ce9dce8bc4bcbd7</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 13:45:14</sys_updated_on>
+        <table>task</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=896fdaa11b47d0104ce9dce8bc4bcbd7"/>
+</record_update>

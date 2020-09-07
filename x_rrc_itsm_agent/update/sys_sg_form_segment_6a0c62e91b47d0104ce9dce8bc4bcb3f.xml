@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">220c62e91b47d0104ce9dce8bc4bcb3d</embedded_screen>
+        <form display_value="Tareas de catálogo Cerrado Completo">660c62e91b47d0104ce9dce8bc4bcb3a</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-04 14:40:31</sys_created_on>
+        <sys_id>6a0c62e91b47d0104ce9dce8bc4bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_form_segment_6a0c62e91b47d0104ce9dce8bc4bcb3f</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 14:40:31</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

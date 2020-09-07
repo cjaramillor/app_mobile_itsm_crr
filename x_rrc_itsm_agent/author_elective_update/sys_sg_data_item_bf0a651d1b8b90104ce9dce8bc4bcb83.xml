@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX RITM Resolutor</name>
+        <query_condition table="sc_req_item">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 15:13:45</sys_created_on>
+        <sys_id>bf0a651d1b8b90104ce9dce8bc4bcb83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SLX RITM Resolutor</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_data_item_bf0a651d1b8b90104ce9dce8bc4bcb83</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 15:13:45</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=bf0a651d1b8b90104ce9dce8bc4bcb83"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_data_item_bf0a651d1b8b90104ce9dce8bc4bcb83</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>SLX RITM Resolutor</name><query_condition table="sc_req_item">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/><item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-03 15:13:45</sys_created_on><sys_id>bf0a651d1b8b90104ce9dce8bc4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SLX RITM Resolutor</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_data_item_bf0a651d1b8b90104ce9dce8bc4bcb83</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-03 15:13:45</sys_updated_on><table>sc_req_item</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=bf0a651d1b8b90104ce9dce8bc4bcb83"/></record_update>]]></payload>
+        <payload_hash>684165205</payload_hash>
+        <record_name>SLX RITM Resolutor</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 15:13:45</sys_created_on>
+        <sys_id>3f0ae51d1b8b90104ce9dce8bc4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1745487e2120000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 15:13:45</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>370ae51d5c8b9010d5b0d4185f5b92c2</update_guid>
+        <update_guid_history>370ae51d5c8b9010d5b0d4185f5b92c2:684165205</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 15:15:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>9c0a2376ce2c42469b2594682ffb43e1</sys_id>
+        <sys_metadata>bf0a651d1b8b90104ce9dce8bc4bcb83</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SLX RITM Resolutor</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_bf0a651d1b8b90104ce9dce8bc4bcb83</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_bf0a651d1b8b90104ce9dce8bc4bcb83">3f0ae51d1b8b90104ce9dce8bc4bcbc2</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 15:15:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

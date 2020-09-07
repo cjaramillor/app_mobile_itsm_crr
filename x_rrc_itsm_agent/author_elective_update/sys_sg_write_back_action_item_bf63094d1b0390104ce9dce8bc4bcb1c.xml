@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>Accion de reabrir para el Solicicitante</description>
+        <execution_script/>
+        <name>SLX Reabrir INC</name>
+        <query_condition table="incident">active=true^state=6^number={{incident.number}}^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="Resolved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="6"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{incident.number}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 17:47:45</sys_created_on>
+        <sys_id>bf63094d1b0390104ce9dce8bc4bcb1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SLX Reabrir INC</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_bf63094d1b0390104ce9dce8bc4bcb1c</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 17:49:08</sys_updated_on>
+        <table>incident</table>
+        <template>state=200^incident_state=200^comments=Ticket reabierto. &#13;
+Reabierto con comentarios:{{Comentario}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=bf63094d1b0390104ce9dce8bc4bcb1c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_write_back_action_item_bf63094d1b0390104ce9dce8bc4bcb1c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description>Accion de reabrir para el Solicicitante</description><execution_script/><name>SLX Reabrir INC</name><query_condition table="incident">active=true^state=6^number={{incident.number}}^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item display_value="Resolved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="6"/><item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{incident.number}}"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></query_condition><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-02 17:47:45</sys_created_on><sys_id>bf63094d1b0390104ce9dce8bc4bcb1c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>SLX Reabrir INC</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_write_back_action_item_bf63094d1b0390104ce9dce8bc4bcb1c</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-02 17:49:08</sys_updated_on><table>incident</table><template>state=200^incident_state=200^comments=Ticket reabierto. &#13;
+Reabierto con comentarios:{{Comentario}}^EQ</template><type>update</type><use_current_record_as_condition>false</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=bf63094d1b0390104ce9dce8bc4bcb1c"/></record_update>]]></payload>
+        <payload_hash>-1122798050</payload_hash>
+        <record_name>SLX Reabrir INC</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 17:49:08</sys_created_on>
+        <sys_id>4e040d4d1b0390104ce9dce8bc4bcb5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1744fefc8090000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 17:49:08</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>06040d4d31039010a8c554859bcf9e5a</update_guid>
+        <update_guid_history>06040d4d31039010a8c554859bcf9e5a:-1122798050,b1b3854dab0390107868b8dddc2b8b08:1460361745</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 15:53:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>3bb3a076f880464ebda49a10d0312ea9</sys_id>
+        <sys_metadata>bf63094d1b0390104ce9dce8bc4bcb1c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SLX Reabrir INC</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_bf63094d1b0390104ce9dce8bc4bcb1c</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_bf63094d1b0390104ce9dce8bc4bcb1c">4e040d4d1b0390104ce9dce8bc4bcb5a</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 15:53:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

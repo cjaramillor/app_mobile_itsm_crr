@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Item Stream Segment</name>
+        <order>10</order>
+        <screen display_value="Tareas de catálogo Cerrado Incompleto">e1ec2c8d1bcf50104ce9dce8bc4bcb6e</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 16:08:04</sys_created_on>
+        <sys_id>25ec6c8d1bcf50104ce9dce8bc4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item Stream Segment</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_25ec6c8d1bcf50104ce9dce8bc4bcb91</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 16:08:04</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

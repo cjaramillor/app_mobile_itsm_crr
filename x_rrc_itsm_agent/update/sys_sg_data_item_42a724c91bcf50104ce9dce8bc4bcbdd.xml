@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX CatalogTask sin asignar</name>
+        <query_condition table="sc_task">state=200^assigned_toISEMPTY^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORDERBYDESCsys_created_on<item display_value="Asignado" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="200"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 15:45:09</sys_created_on>
+        <sys_id>42a724c91bcf50104ce9dce8bc4bcbdd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SLX CatalogTask sin asignar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_data_item_42a724c91bcf50104ce9dce8bc4bcbdd</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 23:37:08</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=42a724c91bcf50104ce9dce8bc4bcbdd"/>
+</record_update>

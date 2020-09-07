@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Question-Circle">0f79a8c91bcf50104ce9dce8bc4bcbf2</icon>
+        <item_view display_value="Sin Asignar Header Item View">8779e80d1bcf50104ce9dce8bc4bcb38</item_view>
+        <name>Sin Asignar</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 15:53:09</sys_created_on>
+        <sys_id>d779e80d1bcf50104ce9dce8bc4bcb3a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Sin Asignar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_form_screen_d779e80d1bcf50104ce9dce8bc4bcb3a</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 14:58:27</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d779e80d1bcf50104ce9dce8bc4bcb3a"/>
+</record_update>

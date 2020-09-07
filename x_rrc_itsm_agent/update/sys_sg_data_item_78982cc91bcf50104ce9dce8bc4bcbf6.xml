@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX CatalogTask abiertas</name>
+        <query_condition table="sc_task">state=-5^ORstate=1^ORstate=200^ORstate=2^assigned_toISNOTEMPTY^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORDERBYDESCsys_created_on<item display_value="En espera" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item display_value="Abierto" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="1"/>
+            <item display_value="Asignado" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="200"/>
+            <item display_value="En Progreso" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="2"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 15:49:11</sys_created_on>
+        <sys_id>78982cc91bcf50104ce9dce8bc4bcbf6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SLX CatalogTask abiertas</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_data_item_78982cc91bcf50104ce9dce8bc4bcbf6</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 23:39:49</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=78982cc91bcf50104ce9dce8bc4bcbf6"/>
+</record_update>

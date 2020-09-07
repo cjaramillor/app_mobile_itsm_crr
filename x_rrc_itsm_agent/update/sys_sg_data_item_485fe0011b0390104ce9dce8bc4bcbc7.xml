@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX RITM Resolutor</name>
+        <query_condition table="sc_req_item">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORDERBYDESCsys_created_on<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="true" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 16:18:37</sys_created_on>
+        <sys_id>485fe0011b0390104ce9dce8bc4bcbc7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SLX RITM Resolutor</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_data_item_485fe0011b0390104ce9dce8bc4bcbc7</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 23:37:43</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=485fe0011b0390104ce9dce8bc4bcbc7"/>
+</record_update>

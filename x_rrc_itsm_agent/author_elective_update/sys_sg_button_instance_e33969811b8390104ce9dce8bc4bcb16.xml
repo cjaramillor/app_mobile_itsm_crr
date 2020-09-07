@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Reasignar Incidente">131a49411b4390104ce9dce8bc4bcb04</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Reasignar</label>
+        <location>leading_swipe</location>
+        <name>Reasignar</name>
+        <order>20</order>
+        <parent>ca81500d1b8f50104ce9dce8bc4bcb0d</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 20:31:43</sys_created_on>
+        <sys_id>e33969811b8390104ce9dce8bc4bcb16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reasignar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e33969811b8390104ce9dce8bc4bcb16</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 20:31:43</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=e33969811b8390104ce9dce8bc4bcb16"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_button_instance_e33969811b8390104ce9dce8bc4bcb16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Reasignar Incidente">131a49411b4390104ce9dce8bc4bcb04</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Reasignar</label><location>leading_swipe</location><name>Reasignar</name><order>20</order><parent>ca81500d1b8f50104ce9dce8bc4bcb0d</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-02 20:31:43</sys_created_on><sys_id>e33969811b8390104ce9dce8bc4bcb16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reasignar</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_button_instance_e33969811b8390104ce9dce8bc4bcb16</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-02 20:31:43</sys_updated_on><table>incident</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=e33969811b8390104ce9dce8bc4bcb16"/></record_update>]]></payload>
+        <payload_hash>-1853121407</payload_hash>
+        <record_name>Reasignar</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 20:31:43</sys_created_on>
+        <sys_id>7b3969811b8390104ce9dce8bc4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1745084a1a70000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 20:31:43</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>7339698137839010879872b09ec6fa18</update_guid>
+        <update_guid_history>7339698137839010879872b09ec6fa18:-1853121407</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 20:54:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>9c7a0fdfebad4e35a4738ad288be64b9</sys_id>
+        <sys_metadata>e33969811b8390104ce9dce8bc4bcb16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reasignar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_e33969811b8390104ce9dce8bc4bcb16</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_e33969811b8390104ce9dce8bc4bcb16">7b3969811b8390104ce9dce8bc4bcb18</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 20:54:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

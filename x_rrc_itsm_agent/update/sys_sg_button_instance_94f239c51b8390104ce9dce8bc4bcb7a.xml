@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Cerrado Completo">f21e510d1b4390104ce9dce8bc4bcb20</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Tarea Completada</label>
+        <location>top</location>
+        <name>Tarea Completada</name>
+        <order>20</order>
+        <parent>1281500d1b8f50104ce9dce8bc4bcbd5</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 21:14:05</sys_created_on>
+        <sys_id>94f239c51b8390104ce9dce8bc4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tarea Completada</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_94f239c51b8390104ce9dce8bc4bcb7a</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 21:14:05</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=94f239c51b8390104ce9dce8bc4bcb7a"/>
+</record_update>

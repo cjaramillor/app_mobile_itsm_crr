@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Comentar Tarea">1cdcd5c91b4390104ce9dce8bc4bcbbf</button>
+        <color_theme>secondary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Comentar</label>
+        <location>footer</location>
+        <name>Comentar</name>
+        <order>10</order>
+        <parent>8c10e8451bcf50104ce9dce8bc4bcb45</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.bb</sys_created_by>
+        <sys_created_on>2020-09-03 20:04:32</sys_created_on>
+        <sys_id>0f9c2a911b4f90104ce9dce8bc4bcb74</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Comentar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0f9c2a911b4f90104ce9dce8bc4bcb74</sys_update_name>
+        <sys_updated_by>slx.bb</sys_updated_by>
+        <sys_updated_on>2020-09-03 20:06:24</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=0f9c2a911b4f90104ce9dce8bc4bcb74"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_button_instance_0f9c2a911b4f90104ce9dce8bc4bcb74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Comentar Tarea">1cdcd5c91b4390104ce9dce8bc4bcbbf</button><color_theme>secondary</color_theme><description/><field_name/><icon/><label>Comentar</label><location>footer</location><name>Comentar</name><order>10</order><parent>8c10e8451bcf50104ce9dce8bc4bcb45</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>slx.bb</sys_created_by><sys_created_on>2020-09-03 20:04:32</sys_created_on><sys_id>0f9c2a911b4f90104ce9dce8bc4bcb74</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Comentar</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_button_instance_0f9c2a911b4f90104ce9dce8bc4bcb74</sys_update_name><sys_updated_by>slx.bb</sys_updated_by><sys_updated_on>2020-09-03 20:06:24</sys_updated_on><table>incident</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=0f9c2a911b4f90104ce9dce8bc4bcb74"/></record_update>]]></payload>
+        <payload_hash>2132326284</payload_hash>
+        <record_name>Comentar</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.bb</sys_created_by>
+        <sys_created_on>2020-09-03 20:06:25</sys_created_on>
+        <sys_id>f20daa911b4f90104ce9dce8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1745593d21c0000001</sys_recorded_at>
+        <sys_updated_by>slx.bb</sys_updated_by>
+        <sys_updated_on>2020-09-03 20:06:25</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>ba0daa91954f9010afb900916d833cb0</update_guid>
+        <update_guid_history>ba0daa91954f9010afb900916d833cb0:2132326284,8f9c6a91074f901089b560baf3a028b9:2145262490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.bb</sys_created_by>
+        <sys_created_on>2020-09-03 20:07:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>1b9580670a304d0986752ef2a7bf01a1</sys_id>
+        <sys_metadata>0f9c2a911b4f90104ce9dce8bc4bcb74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comentar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_0f9c2a911b4f90104ce9dce8bc4bcb74</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_0f9c2a911b4f90104ce9dce8bc4bcb74">f20daa911b4f90104ce9dce8bc4bcbb1</sys_update_version>
+        <sys_updated_by>slx.bb</sys_updated_by>
+        <sys_updated_on>2020-09-03 20:07:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

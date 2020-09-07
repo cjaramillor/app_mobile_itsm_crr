@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Question-Circle">0f79a8c91bcf50104ce9dce8bc4bcbf2</icon>
+        <name>Sin Asignar</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 15:53:09</sys_created_on>
+        <sys_id>8b79e80d1bcf50104ce9dce8bc4bcb31</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Sin Asignar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_list_screen_8b79e80d1bcf50104ce9dce8bc4bcb31</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 14:58:27</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=8b79e80d1bcf50104ce9dce8bc4bcb31"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_list_screen_8b79e80d1bcf50104ce9dce8bc4bcb31</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Question-Circle">0f79a8c91bcf50104ce9dce8bc4bcbf2</icon><name>Sin Asignar</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-02 15:53:09</sys_created_on><sys_id>8b79e80d1bcf50104ce9dce8bc4bcb31</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Sin Asignar</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_sg_list_screen_8b79e80d1bcf50104ce9dce8bc4bcb31</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-03 14:58:27</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=8b79e80d1bcf50104ce9dce8bc4bcb31"/></record_update>]]></payload>
+        <payload_hash>-1598366930</payload_hash>
+        <record_name>Sin Asignar</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-03 14:58:27</sys_created_on>
+        <sys_id>2f86e1991b8b90104ce9dce8bc4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1745479dec30000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-03 14:58:27</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>e386e199e28b90104af13add8bd35e29</update_guid>
+        <update_guid_history>e386e199e28b90104af13add8bd35e29:-1598366930,0779e80d23cf501034a3d94618de1e33:120817991</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-04 19:33:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>0014e6bd7d624adf8000039ae6367011</sys_id>
+        <sys_metadata>8b79e80d1bcf50104ce9dce8bc4bcb31</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sin Asignar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_8b79e80d1bcf50104ce9dce8bc4bcb31</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_8b79e80d1bcf50104ce9dce8bc4bcb31">2f86e1991b8b90104ce9dce8bc4bcb29</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 19:33:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

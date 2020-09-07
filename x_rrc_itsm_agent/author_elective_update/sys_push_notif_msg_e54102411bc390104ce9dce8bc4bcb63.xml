@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="DELETE">
+        <message_string>Su incidente N° ${number} ha sido resuelto</message_string>
+        <name>SLX INC Resuelto&gt;Afectado | NowMobile</name>
+        <push_app display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</push_app>
+        <push_message_content display_value="SLX INC Genérico NowMobile">faa2db191b8f90104ce9dce8bc4bcb80</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 22:16:55</sys_created_on>
+        <sys_id>e54102411bc390104ce9dce8bc4bcb63</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SLX INC Resuelto&gt;Afectado | NowMobile</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_push_notif_msg_e54102411bc390104ce9dce8bc4bcb63</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 17:52:35</sys_updated_on>
+        <table>incident</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_push_notif_msg_e54102411bc390104ce9dce8bc4bcb63</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg"><sys_push_notif_msg action="INSERT_OR_UPDATE"><message_string>Su incidente N° ${number} ha sido resuelto</message_string><name>SLX INC Resuelto&gt;Afectado | NowMobile</name><push_app display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</push_app><push_message_content display_value="SLX INC Genérico NowMobile">faa2db191b8f90104ce9dce8bc4bcb80</push_message_content><subject/><sys_class_name>sys_push_notif_msg</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-02 22:16:55</sys_created_on><sys_id>e54102411bc390104ce9dce8bc4bcb63</sys_id><sys_mod_count>2</sys_mod_count><sys_name>SLX INC Resuelto&gt;Afectado | NowMobile</sys_name><sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope><sys_update_name>sys_push_notif_msg_e54102411bc390104ce9dce8bc4bcb63</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-04 17:52:35</sys_updated_on><table>incident</table><type>push</type></sys_push_notif_msg></record_update>]]></payload>
+        <payload_hash>-813381514</payload_hash>
+        <record_name>SLX INC Resuelto&gt;Afectado | NowMobile</record_name>
+        <reverted_from/>
+        <source>1dd050891b8f50104ce9dce8bc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-04 17:52:35</sys_created_on>
+        <sys_id>04085fa51bc7d0104ce9dce8bc4bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1745a3fa90c0000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 17:52:35</sys_updated_on>
+        <type>Push Notification Message</type>
+        <update_guid>c8085fa520c7d010190f14cf963a35fa</update_guid>
+        <update_guid_history>c8085fa520c7d010190f14cf963a35fa:-813381514,edc7f6612187d010dae7d5c886f0651c:1999973082,7051424178c390109f46283f2a46034f:701590336,7051424178c390109f46283f2a46034f:701590336</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-04 17:54:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_push_notif_msg">sys_push_notif_msg</sys_db_object>
+        <sys_id>055a8903582040589299d78a2e7367e9</sys_id>
+        <sys_metadata>e54102411bc390104ce9dce8bc4bcb63</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SLX INC Resuelto&gt;Afectado | NowMobile</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_scope_delete display_value="">0d58a60f58ad42bf8286d3070acf9441</sys_scope_delete>
+        <sys_update_name>sys_push_notif_msg_e54102411bc390104ce9dce8bc4bcb63</sys_update_name>
+        <sys_update_version display_value="sys_push_notif_msg_e54102411bc390104ce9dce8bc4bcb63">04085fa51bc7d0104ce9dce8bc4bcbfb</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-04 17:54:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

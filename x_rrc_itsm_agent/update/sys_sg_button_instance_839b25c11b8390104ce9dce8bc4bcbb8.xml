@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Nuevo Incidente">fbc1fc011b0390104ce9dce8bc4bcb60</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Nuevo</label>
+        <location>top</location>
+        <name>Nuevo</name>
+        <order>40</order>
+        <parent>82815cc91b8f50104ce9dce8bc4bcbf9</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-02 20:42:02</sys_created_on>
+        <sys_id>839b25c11b8390104ce9dce8bc4bcbb8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Nuevo</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_rrc_itsm_agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">51d094491b8f50104ce9dce8bc4bcbf5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_839b25c11b8390104ce9dce8bc4bcbb8</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-02 20:44:43</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=839b25c11b8390104ce9dce8bc4bcbb8"/>
+</record_update>
